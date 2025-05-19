@@ -1,6 +1,6 @@
 # Thinkpad T470 OpenCore
  
- ## J.S.Y.K. this project is a unmantained fork from (https://github.com/Ziimmie/Thinkpad-T470-Opencore)
+ ## J.S.Y.K. this project is a unmaintained fork from (https://github.com/Ziimmie/Thinkpad-T470-Opencore)
  
  My Opencore folder, for my ThinkPad T470 (i5-7300u, 8GB RAM)
 
